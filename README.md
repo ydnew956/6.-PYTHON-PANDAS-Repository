@@ -68,3 +68,13 @@ Experiment with new filters, slicing methods, or pandas functions to extend the 
 
 5. Visualise insights  
 Use the built‑in charts or add new matplotlib plots to deepen your understanding of the data.
+
+### Example
+
+<img width="1145" height="292" alt="Screenshot 2026-08-12 192634" src="https://github.com/user-attachments/assets/fa35a979-1eb5-445d-8baa-c06e23b811d8" />
+
+<img width="1149" height="273" alt="Screenshot 2026-08-12 192701" src="https://github.com/user-attachments/assets/05e189ba-740e-4e83-9d1f-e3ebb64deead" />
+
+
+
+
