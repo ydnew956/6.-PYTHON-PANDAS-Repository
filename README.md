@@ -17,7 +17,7 @@ This project was completed during the Data Technician Bootcamp, focusing on anal
 
 - Visualised sales trends, category comparisons, and seasonal patterns.
 
--Built bar charts, line charts, and other visuals to support data storytelling.
+- Built bar charts, line charts, and other visuals to support data storytelling.
  
 ###  Dataset Description
 - The dataset included:
