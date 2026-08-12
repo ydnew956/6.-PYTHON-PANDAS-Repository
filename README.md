@@ -58,7 +58,7 @@ This project was completed during the Data Technician Bootcamp, focusing on anal
 Use the Code button on GitHub to download the project or clone it locally.
 
 2. Open the notebook  
-Launch the .ipynb file (e.g., PandasDataFrames_01_Your_Name.ipynb) in Google Colab or Jupyter Notebook.
+Launch the .ipynb file (e.g., PandasDataFrames_01_Wendy_white.ipynb) in Google Colab or Jupyter Notebook.
 
 3. Run each cell  
 Execute the notebook cells to load the dataset, explore it, clean it, and generate visualisations.
