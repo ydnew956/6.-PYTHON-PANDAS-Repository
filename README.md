@@ -6,7 +6,7 @@ This project was completed during the Data Technician Bootcamp, focusing on anal
 ### Data Exploration & Filtering
 - Used pandas filtering to isolate specific product categories, regions, or date ranges.
 
-- 
+- Inspected dataset structure using **.info()**, .**describe()**, and .**head()**.
 
 ###  Data Cleaning & Manipulation
 - Removed missing values with **dropna()**
