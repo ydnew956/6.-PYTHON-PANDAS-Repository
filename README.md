@@ -38,9 +38,9 @@ This project was completed during the Data Technician Bootcamp, focusing on anal
 - Visualised key patterns to support business decision‑making.
 
 ###  Outcomes
-- Demonstrated proficiency in pandas, data cleaning, and Python‑based analysis.
+- Demonstrated proficiency in pandas, and Python‑based analysis.
 
-- Built a repeatable workflow for exploring and transforming retail datasets.
+- Built a repeatable workflow for exploring and transforming datasets.
 
 - Strengthened understanding of how Python supports real‑world data analytics tasks.
 
