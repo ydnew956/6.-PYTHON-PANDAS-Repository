@@ -6,17 +6,10 @@ This project was completed during the Data Technician Bootcamp, focusing on anal
 ### Data Exploration & Filtering
 - Used pandas filtering to isolate specific product categories, regions, or date ranges.
 
-- Applied slicing with .loc[] and .iloc[] to select rows and columns precisely.
-
-- Inspected dataset structure using .info(), .describe(), and .head().
+- 
 
 ###  Data Cleaning & Manipulation
-- Removed missing values with dropna() and replaced gaps using fillna().
-
-- Grouped data using groupby() to calculate totals, averages, and category performance.
-
-- Group results with sort_values() to identify top‑selling products and trends.
-
+- Removed missing values with **dropna()**
 - Used additional pandas methods to reshape and prepare data for analysis.
 
 ###  Data Visualisation
