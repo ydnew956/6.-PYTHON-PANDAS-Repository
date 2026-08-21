@@ -20,7 +20,7 @@ This project was completed during the Data Technician Bootcamp, focusing on anal
 - Built bar charts, line charts, and other visuals to support data storytelling.
  
 ###  Dataset Description
-- The dataset included:
+The dataset included:
 
 - Product categories (Clothing, Electronics, Beauty)
 
